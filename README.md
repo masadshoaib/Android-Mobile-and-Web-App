@@ -2,7 +2,7 @@
 
 Introducing the purrfect app for all you feline-loving wordsmiths out there! With just a tap of your paw, er, finger, you can input any word and watch as it magically appears atop the fluffy cat. Who needs boring old dictionaries when you have a meowtivational tool like this? Whether you're feeling catty, kittenish, or just plain cat-tastic, this app is sure to have you feline good. 
 
-It takes the input from the user, calls the servlet which calls the API, sends back to mobile app and displays the picture on the app. Below are the details of the implementation:
+This is a distributed systems application which takes the input from the user, calls the servlet which calls the API, sends back to mobile app and displays the picture on the app. Below are the details of the implementation:
 
 ## 1.	Native Android application
 My application uses TextView, EditText, Button, and ImageView. See content_main.xml for details of how they are incorporated.
