@@ -22,7 +22,7 @@ An example:
 e.	Displays new info to the user
  
 f.	Is repeatable
-Allows user to repeatedly input without restarting the app. Here is an example of inputting Marty!
+Allows user to repeatedly input without restarting the app.
 
 
 ## 2.	Implements a web application deployed to codespaces
