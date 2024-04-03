@@ -32,8 +32,11 @@ https://m-asadshoaib-ubiquitous-funicular-pv7qvvg7wjwf747r-8080.preview.app.gith
 
 a.	Using a HTTP Servlet to implement a simple API
 In my program deployed, the following are implemented:
+
 Controller: CatServlet
+
 Model: WebCatGetModel
+
 View: dashboard.jsp
 
 Additionally, I am storing things in a POJO titled MongoP4T2.
