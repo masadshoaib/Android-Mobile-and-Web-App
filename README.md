@@ -55,18 +55,22 @@ The below is sent to the android application. This tag and JSON has been made by
 
 ## 4.	Log useful information
 Date and Time: to keep a track of when the requests were made
+
 Search Term: to check what is input by the user for searching
+
 API Response: to see what API is returning
+
 Device: to see where the requests are being made from
+
 Time Taken: to understand latency per request
+
 Sent to Phone: to see what is being sent to the phone
 
 ## 5.	Store the log information in mongoDB
 All the data is being stored in “Dashboard” database under collection “Results”. My connection string is:
-mongodb://mshoaib:H87NyDqXcAlTIOde@ac-41xfnxe-shard-00-02.fbowljg.mongodb.net:27017,ac-41xfnxe-shard-00-01.fbowljg.mongodb.net:27017,ac-41xfnxe-shard-00-00.fbowljg.mongodb.net:27017/test?w=majority&retryWrites=true&tls=true&authMechanism=SCRAM-SHA-1
+"ABCDEFG"
 
 ## 6.	Display operational analytics and full web based dashboard
-
-The URL is: https://m-asadshoaib-ubiquitous-funicular-pv7qvvg7wjwf747r-8080.preview.app.github.dev/dashboard
+A screenshot has been attached to the files section of this repository.
 
  
